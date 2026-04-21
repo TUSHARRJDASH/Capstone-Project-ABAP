@@ -123,15 +123,6 @@ USER_COMMAND (Drill-down VA03)
 * 🌐 Convert to SAP Fiori app
 
 ---
-
-## 📸 Screenshots
-
-*Add the following screenshots here:*
-
-* Selection Screen
-* ALV Output
-* VA03 Drill-down
-
 ---
 
 ## 👨‍💻 Author
